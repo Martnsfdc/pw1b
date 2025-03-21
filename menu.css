@@ -1,0 +1,26 @@
+.menu {
+    border:1px solid;
+    background-color: #000000;
+    display: flex;
+    list-style: none
+}
+.item-menu{
+    border:1px solid #969696;
+    background-color: #696666;
+    transition: opacity 1s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-menu:hover{
+    opacity: 0.7;
+    
+}
+
+.link-item-menu{
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    padding:0px 40px;
+    
+}
