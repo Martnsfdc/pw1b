@@ -1,6 +1,8 @@
 .card{
    
     width: 250px;
+    margin: 5px 10px;
+    background-color: #fff;
  }
  
  .imagem-card {
